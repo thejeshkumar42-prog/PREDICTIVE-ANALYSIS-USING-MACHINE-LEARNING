@@ -38,3 +38,7 @@ The negative R² Score indicates that the Linear Regression model did not accura
 To visualize the model's performance, an Actual vs Predicted Sales scatter plot was created using Matplotlib. This visualization provides a simple comparison between the actual sales values and the values predicted by the model. Such visualizations help analysts understand prediction patterns and identify areas where the model could be improved.
 
 Overall, this project successfully demonstrated the complete machine learning pipeline, including data loading, preprocessing, feature selection, model training, prediction, performance evaluation, and visualization. It also highlighted the importance of selecting meaningful features to improve prediction accuracy. The project enhanced practical knowledge of supervised machine learning, regression analysis, and model evaluation techniques, providing valuable hands-on experience in predictive analytics.
+
+# OUTPUT
+
+<img width="1045" height="808" alt="Image" src="https://github.com/user-attachments/assets/b4f0e920-c7f8-406d-8774-a93338903389" />
